@@ -41,7 +41,7 @@ body {
     padding-inline: min(8%, 2.5rem);
     padding-block: clamp(1px, 1vw, .75rem);
     margin-block-start: -160px;
-    max-width: min(600px, 90%);
+    max-width: min(37.5rem, 90%);
     background-color: var(--white);
     border-radius: 10px;
     position: relative;
@@ -75,7 +75,7 @@ h1::before {
 
 summary {
     font-weight: 600;
-    font-size: clamp(17px, 3vw, 1.125rem);
+    font-size: clamp(1.063rem, 3vw, 1.125rem);
     padding-block: 1.5rem;
     cursor: pointer;
     display: flex;
