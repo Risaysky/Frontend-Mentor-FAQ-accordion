@@ -39,7 +39,7 @@ body {
 
 .wrapper {
     margin-inline: auto;
-    padding-inline: min(8%, 2.5rem);
+    padding-inline: min(7%, 2.5rem);
     padding-block: clamp(1px, 1vw, .75rem);
     margin-block-start: -160px;
     margin-block-end: min(5vw, 2.5rem);
